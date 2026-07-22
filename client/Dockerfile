@@ -50,3 +50,5 @@ ENV PORT=3000
 # Server.js is only available if output file tracing is configured,
 # otherwise fallback to running next start
 CMD ["npm", "start"]
+
+# Runner stage configured with non-root security
