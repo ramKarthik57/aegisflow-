@@ -100,3 +100,6 @@ aegisflow/
 ## 5. Mock Credentials for Demo
 * **Admin Login**: Username: `admin` | Password: `aegis123`
 * **Dispatcher Login**: Username: `dispatcher` | Password: `aegis123`
+
+# AegisFlow Project Setup
+# Active development logs initialized.
