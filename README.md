@@ -103,3 +103,4 @@ aegisflow/
 
 # AegisFlow Project Setup
 # Active development logs initialized.
+# Local testing verified: python -m unittest tests/test_backend.py
