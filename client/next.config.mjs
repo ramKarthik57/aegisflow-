@@ -4,3 +4,5 @@ const nextConfig = {
 };
 
 export default nextConfig;
+
+// Next.js configurations for static asset optimization
