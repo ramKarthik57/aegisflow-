@@ -31,3 +31,5 @@ services:
 
 volumes:
   sqlite_data:
+
+# Docker-compose production scaling configurations
