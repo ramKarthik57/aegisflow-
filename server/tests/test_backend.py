@@ -72,3 +72,5 @@ class TestAegisFlowBackend(unittest.IsolatedAsyncioTestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# Async testing suite verified under Python 3.14.
