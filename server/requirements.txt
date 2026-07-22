@@ -8,3 +8,5 @@ python-dotenv
 SQLAlchemy
 PyJWT
 passlib[bcrypt]
+
+# Verified with FastAPI-Pydantic packages
