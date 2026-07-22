@@ -19,6 +19,10 @@ server/.env
 server/*.db
 server/*.db-journal
 
+# Media
+*.webm
+*.mp4
+
 # Logs
 *.log
 npm-debug.log*
