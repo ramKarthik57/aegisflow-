@@ -115,3 +115,5 @@ def init_db():
 
     db.commit()
     db.close()
+
+# SQLAlchemy setup verified for local SQLite threads.
